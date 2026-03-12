@@ -3,7 +3,7 @@
 # MAGE
 **Meta-Reinforcement Learning for Language Agents toward Strategic Exploration and Exploitation**
 
-<a href='https://arxiv.org/abs/2503.14189'><img src='https://img.shields.io/badge/Paper-Arxiv-FFA500'></a>
+<a href='https://arxiv.org/abs/2603.03680v1'><img src='https://img.shields.io/badge/Paper-Arxiv-FFA500'></a>
 </div>
 
 ## Brief Introduction
@@ -37,4 +37,13 @@ This work is built upon [lamer](https://github.com/mlbio-epfl/LaMer), [verl](htt
 If you find our code useful, please consider citing:
 
 ```
+@misc{yang2026magemetareinforcementlearninglanguage,
+      title={MAGE: Meta-Reinforcement Learning for Language Agents toward Strategic Exploration and Exploitation}, 
+      author={Lu Yang and Zelai Xu and Minyang Xie and Jiaxuan Gao and Zhao Shok and Yu Wang and Yi Wu},
+      year={2026},
+      eprint={2603.03680},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2603.03680}, 
+}
 ```
